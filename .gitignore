@@ -5,6 +5,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
 # User-specific files
 *.suo
 *.user
@@ -55,6 +56,7 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
+packages-microsoft-prod.deb
 
 # StyleCop
 StyleCopReport.xml
